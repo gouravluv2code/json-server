@@ -1814,15 +1814,6 @@
       "discount": "800",
       "gender": "male",
       "id": 35
-    },
-    {
-      "title": "dg",
-      "image": "dg",
-      "price": "d",
-      "mrp": "24",
-      "brand": "Angel & Rocket",
-      "gender": "Boy",
-      "id": 40
     }
   ],
   "UserDetails": [
